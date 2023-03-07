@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1674656911 source:g:\project\project\main.cpp
+	<iostream>
+	<windows.h>
+
+1674716235 source:g:\cv-builder\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1674732048 source:d:\new folder\cv-builder\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1678211229 source:g:\new folder (3)\cv-builder\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1678211967 source:f:\cv-builder-html\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
